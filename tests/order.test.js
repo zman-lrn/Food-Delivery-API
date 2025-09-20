@@ -1,4 +1,3 @@
-// tests/order.test.js
 const request = require("supertest");
 const { expect } = require("chai");
 const bcrypt = require("bcrypt");
